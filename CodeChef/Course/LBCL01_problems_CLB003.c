@@ -6,6 +6,6 @@
 int main() {
 
   // Replace the _ (underscores) with the correct value
-  printf("I love you C");
+  printf("I love  C");
   return 0;
 }
